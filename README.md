@@ -2,7 +2,8 @@
 
 Welcome to a simple, fun recreation of **Flappy Bird** built using **HTML5 Canvas**, **JavaScript**, and **CSS**!
 
-![Game Screenshot](./screenshot.png) <!-- (Optional: Add a real screenshot of your game named `screenshot.png`) -->
+![Game Screenshot](![image](https://github.com/user-attachments/assets/b4cc9b71-f75c-426b-9672-1d6c31768b05)
+) <!-- (Optional: Add a real screenshot of your game named `screenshot.png`) -->
 
 ## 🚀 Live Demo
 You can play the game by opening `index.html` in your browser.
@@ -48,8 +49,8 @@ You can play the game by opening `index.html` in your browser.
 - **Game Loop**: The game uses `requestAnimationFrame` for smooth updates.
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/5072a667-019b-4a20-a346-3b19dabbeaf4)
-
+![image](https://github.com/user-attachments/assets/5592bef2-8c00-4f28-b1cb-3901196d0ba8)
+![image](https://github.com/user-attachments/assets/b37b8004-02cf-4cb1-b832-db8551cf0b09)
 
 ## 🧩 Future Improvements
 - Add sound effects for jumps, scoring, and collisions
